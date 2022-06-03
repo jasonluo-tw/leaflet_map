@@ -1,0 +1,9 @@
+.loader {
+    background: rgba(255, 255, 255, 0.5)
+                url('./circle_loader.svg')
+                50% 50%
+                no-repeat;
+    /* height: 480px; */
+
+}
+
